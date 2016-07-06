@@ -19,10 +19,17 @@
   "homepage": "https://github.com/lcc-tech/node-red-base#readme",
   "dependencies": {
     "node-red": "^0.13.4",
+    "node-red-bluemix-nodes": "^1.0.2",
+    "node-red-contrib-blynk-websockets": "0.0.3",
+    "node-red-contrib-debounce": "0.0.2",
+    "node-red-contrib-geonames": "^0.1.11",
     "node-red-contrib-osc": "0.0.6",
     "node-red-contrib-slack": "^0.1.1",
     "node-red-contrib-ui": "^1.2.19",
+    "node-red-contrib-web-worldmap": "^1.0.1",
     "node-red-node-arduino": "0.0.7",
-    "node-red-node-dweetio": "0.0.12"
+    "node-red-node-dweetio": "0.0.12",
+    "node-red-node-openweathermap": "^0.1.7",
+    "node-red-node-watson": "^0.4.4"
   }
 }
